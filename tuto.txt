@@ -1,0 +1,11 @@
+######################################
+# Pour mettre en place
+######################################
+
+Créer une collection 
+Stack Management > Crée un nouvel Index patterns 
+myapplication-*
+puis selectionner timestamp
+
+Aller dans :
+Observabilty>Logs>Selectionne Kibana Logs 
